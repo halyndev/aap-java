@@ -1,0 +1,17 @@
+dev/aap/errors/PhysicalWorldViolation.class
+dev/aap/audit/AuditResult.class
+dev/aap/crypto/KeyPair.class
+dev/aap/provenance/Provenance.class
+dev/aap/crypto/Crypto.class
+dev/aap/audit/AuditChain.class
+dev/aap/errors/ChainException.class
+dev/aap/authorization/Authorization.class
+dev/aap/authorization/Level.class
+dev/aap/audit/AuditChain$VerifyResult.class
+dev/aap/identity/Identity.class
+dev/aap/errors/SignatureException.class
+dev/aap/audit/AuditEntry.class
+dev/aap/Quickstart.class
+dev/aap/errors/ValidationException.class
+dev/aap/errors/RevocationException.class
+dev/aap/errors/AAPException.class

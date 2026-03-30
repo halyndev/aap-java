@@ -1,0 +1,16 @@
+/mnt/data/aap-java-build/src/main/java/dev/aap/errors/ValidationException.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/errors/PhysicalWorldViolation.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/audit/AuditEntry.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/identity/Identity.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/crypto/Crypto.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/errors/RevocationException.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/errors/AAPException.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/Quickstart.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/authorization/Authorization.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/audit/AuditResult.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/crypto/KeyPair.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/errors/SignatureException.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/errors/ChainException.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/audit/AuditChain.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/authorization/Level.java
+/mnt/data/aap-java-build/src/main/java/dev/aap/provenance/Provenance.java
